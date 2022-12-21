@@ -13,6 +13,7 @@ The need to observe the ocular anatomy through structures that are not always tr
 
 ## This notebook
 In this notebook, the CLAHE and RED FREE filters are demonstrated, as well as a brightness optimization filter with Deep Learning.
+
 https://github.com/rschererstm/wisconsin_opht/blob/main/retina_filters.ipynb
 
 
@@ -30,4 +31,5 @@ Thus custom tools are needed for this.
 
 ## This notebook
 This notebook takes a first step in that direction. It prepares the text for deeper semantic analysis.
+
 https://github.com/rschererstm/wisconsin_opht/blob/main/text_pipeline.ipynb
