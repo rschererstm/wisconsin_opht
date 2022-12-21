@@ -30,3 +30,4 @@ Thus custom tools are needed for this.
 
 ## This notebook
 This notebook takes a first step in that direction. It prepares the text for deeper semantic analysis.
+https://github.com/rschererstm/wisconsin_opht/blob/main/text_pipeline.ipynb
